@@ -5,5 +5,11 @@
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.4.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bazzinotti/socketio-chat-example.git"
+  },
+  "license": "UNLICENSED",
+  "private": true
 }
